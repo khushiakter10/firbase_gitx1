@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594723933298",
+    "project_id": "classic-ecommerce-723b3",
+    "storage_bucket": "classic-ecommerce-723b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594723933298:android:3c5f94e22fc6ba271006eb",
+        "android_client_info": {
+          "package_name": "com.example.firbase_gitx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BA_AWtFH-6J99HkrwC1KVe8XmRnnjHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
